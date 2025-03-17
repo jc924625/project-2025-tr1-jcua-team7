@@ -1,12 +1,11 @@
-## Overview
-This guide provides essential information for developers working on this theme. It covers the features, key files, design decisions, and custom functionalities specific to this theme.
+# Theme Development Guide
+This document provides relevant information for new developers who want to continue developing the theme. It covers the theme’s features, files to edit, design decisions, and other specifics for efficient theme development.
 
 ## Theme Features
 
 ## Key Files
 
 ## Design Decisions
-- Color Scheme: 
-- Fonts:
 
+This document will be updated as new features or modifications are made to the theme.
 
