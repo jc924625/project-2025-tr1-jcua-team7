@@ -20,3 +20,4 @@ A responsive WordPress theme designed to showcase and educate visitors about glo
 
 
 [Deployment Documentation](https://github.com/cp3402-students/project-2025-tr1-jcua-team7/blob/main/deployment.md)
+[Theme Documentation](https://github.com/cp3402-students/project-2025-tr1-jcua-team7/blob/main/theme.md)
