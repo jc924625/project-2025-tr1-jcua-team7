@@ -16,3 +16,7 @@ A responsive WordPress theme designed to showcase and educate visitors about glo
 - PHP 7.5+
 - MySQL 5.7+
 - Apache/Nginx web server
+
+
+
+[Deployment Documentation](https://github.com/cp3402-students/project-2025-tr1-jcua-team7/blob/main/deployment.md)
